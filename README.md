@@ -11,6 +11,8 @@
 | java. | backend. |
 | ----- | -------- |
 
+<table><tr><td>컬럼1</td><td>컬럼2</td></tr></table>
+
 <br>
 <img src="https://event.multicampus.com/backend/images/promotion/PR010149/pc/visual-06.png">
 
