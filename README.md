@@ -12,7 +12,7 @@
 | ----- | -------- |
 
 <table>
-  <tr><th>title</td><td>contents</th></tr>
+  <tr><th>title</th><th>contents</th></tr>
   <tr><td>컬럼1</td><td>컬럼2</td></tr>
 </table>
 
