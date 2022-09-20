@@ -11,6 +11,7 @@
 | java. | backend. |
 | ----- | -------- |
 
+<h1>테이블</h1>
 <table>
   <tr><th>title</th><th>contents</th></tr>
   <tr><td>컬럼1</td><td>컬럼2</td></tr>
